@@ -19,6 +19,7 @@ Detailed records of loan installment payments, showing whether payments were mad
 ![image](https://github.com/user-attachments/assets/8dcd9c50-f20c-4d2d-adb1-18f8216e1ca8)
 #### Final score for the full solution:
 Private LB: 0.78651 Public  LB: 0.79008
+![image](https://github.com/user-attachments/assets/a3ed7539-32a0-4f3c-b798-ad98ea336876)
 
 ## Project Design and Solution
 1. <u>**Data Preparation**</u> - Before modeling, it is essential to import all necessary datasets and libraries, then inspect the feature types and the number of rows and columns in each dataset.
